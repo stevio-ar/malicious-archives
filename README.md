@@ -1,4 +1,4 @@
-# Malware Flash Drive
+# Malware Archives
 
 > ⚠️ **WARNING — READ BEFORE USE**
 >
