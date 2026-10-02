@@ -1,6 +1,0 @@
-Para detener hacer lo siguiente:
-
-
-(tecla) WIN + (tecla) R
-
-taskkill /f /im cmd.exe
